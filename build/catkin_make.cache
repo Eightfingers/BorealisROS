@@ -1,0 +1,2 @@
+Borealis/borealis_follow_me_pose_pub:Borealis/pose_to_path
+-DCATKIN_DEVEL_PREFIX=/home/apex-15/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/apex-15/catkin_ws/install -G Unix Makefiles
